@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['Your Number']
 global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.ownernomer = 'wa.me/919057593646'
 global.ownername = '🐦Star Boy Umar'
 global.botname = 'UMAR-DEVIL'
 global.footer = '©UmarBotInc.'
