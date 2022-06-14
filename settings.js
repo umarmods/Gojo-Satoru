@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
+global.owner = ['+919057593646']
+global.premium = ['+919057593646']
 global.ownernomer = 'wa.me/919057593646'
 global.ownername = '🐦Star Boy Umar'
 global.botname = 'UMAR-DEVIL'
-global.footer = '©UmarBotInc.'
+global.footer = '©Umar Bot Inc.'
 global.ig = 'https://github.com/umarmods'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/umarmods'
 global.myweb = 'https://youtube.com/c/UMARMODS'
-global.packname = 'Gojo-Satoru'
+global.packname = 'Umar Rehman'
 global.author = '🐦Star Boy Umar'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
